@@ -1,5 +1,6 @@
 <?php
-namespace app\index\controller;
+
+namespace app\mi5splus\controller;
 use think\Controller;
 
 class Index extends Controller
