@@ -32,5 +32,41 @@ class Index extends Controller
 	{
 		return $this->fetch();
 	}
+
+	public function product_category_add()
+	{
+		return $this->fetch();
+	}
+
+	public function transaction()
+	{
+		return $this->fetch();
+	}
+
+	public function order_chart()
+	{
+		return $this->fetch();
+	}
+
+	public function orderform()
+	{
+		return $this->fetch();
+	}
+
+	public function amounts()
+	{
+		return $this->fetch();
+	}
+
+	public function order_handling()
+	{
+		return $this->fetch();
+	}
+
+	public function refund()
+	{
+		return $this->fetch();
+	}
+
 }
 
